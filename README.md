@@ -1,3 +1,5 @@
+![logo](https://github.com/Salonisingh01/Salonisingh01/blob/main/SALONI%20SINGH.png)
+
 <h1 align="center">Hi 👋, I'm Saloni singh</h1>
 <h3 align="center"> Computer Science & Design student from India</h3>
 
