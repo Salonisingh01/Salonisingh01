@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saloni singh</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center"> Computer Science & Design student from India</h3>
 
 <img align= "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
@@ -12,8 +12,6 @@
 - 📫 How to reach me **saloniisingh93@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salonisingh01&label=Profile%20views&color=0e75b6&style=flat" alt="salonisingh01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salonisingh01" alt="salonisingh01" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
