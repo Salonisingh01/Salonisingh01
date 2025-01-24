@@ -5,11 +5,11 @@
 
 <p align="center"><img  alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/> </p>
 
-- 🔭 I’m currently working on [Wiser](https://github.com/Salonisingh01/Wiser.git)
+- 🔭 I’m currently working on [iNotebook]()
 
-- 🌱 I’m currently learning **iOS Application Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Salonisingh01/Prodigy_WD_01.git](https://github.com/Salonisingh01/Prodigy_WD_01.git)
+- 👨‍💻 All of my projects are available at [https://github.com/Salonisingh01/Prodigy_WD_01.git](https://github.com/Salonisingh01)
 
 - 📫 How to reach me **saloniisingh93@gmail.com**
 
