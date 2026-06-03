@@ -5,6 +5,8 @@
 
 
 
+
+
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Salonisingh01](https://github.com/Salonisingh01)
@@ -57,27 +59,21 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-<p align="left" style:"margin-top:20px;"> <img src="https://komarev.com/ghpvc/?username=salonisingh01&label=Profile%20views&color=0e75b6&style=flat" alt="salonisingh01" /> </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=salonisingh01&label=Profile%20views&color=0e75b6&style=flat" alt="salonisingh01" /> 
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a href="https://linkedin.com/in/salonisingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salonisingh" height="30" width="40" /></a>
-
 </div>
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salonisingh01" alt="salonisingh01" /></a> </p>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salonisingh01&show_icons=true&locale=en&layout=compact" alt="salonisingh01" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salonisingh01&show_icons=true&locale=en" alt="salonisingh01" /></p>
-
-
-
-
 
 
 <h3 align="left">🔥   My Stats :</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Salonisingh01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
